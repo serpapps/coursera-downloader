@@ -1,6 +1,6 @@
 # Coursera Downloader
 
-> https://serp.ly/coursera-downloader
+> Download complete Coursera courses with videos, assignments, and certificates
 
 ![Coursera Downloader](https://raw.githubusercontent.com/serpapps/coursera-downloader/assets/images/coursera-downloader.gif)
 
@@ -54,4 +54,10 @@ Coursera Downloader is a powerful tool that helps you download content from Cour
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/coursera-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+coursera downloader
+</details>
 
