@@ -19,6 +19,7 @@ Coursera Downloader is a powerful tool that helps you download content from Cour
 - 💌 [Newsletter](https://serp.ly/@serp/email)
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
+- 📚 [Loom Video Research](CONTRIBUTING.md) - Technical documentation for Loom video downloads
 
 ## Features
 
